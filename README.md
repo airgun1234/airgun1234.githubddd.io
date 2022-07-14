@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## 양자컴퓨터
 
-You can use the [editor on GitHub](https://github.com/airgun1234/dddddd/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### 양자컴퓨터란?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+양자컴퓨터란 양자 얽힘이나 양자 중첩과 같은 양자역학적인 현상을 이용해 자료와 계산을 처리하는 컴퓨터이다. 고전적인 컴퓨터에서 자료의 양을 비트로 표현하는 것과 달리 양자컴퓨터는 큐비트를 이용해 자료를 표현하고 계산한다. 한 개의 처리 방식으로 여러 가지 계산을 동시에 할 수 있어서 정보처리량과 처리 속도가 기존의 컴퓨터와 비교 불가로 빠르다.
 
-### Markdown
+### 양자컴퓨터의 원리
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
+### 양자컴퓨터의 실생활 활용 가능성과 개발
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/airgun1234/dddddd/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
